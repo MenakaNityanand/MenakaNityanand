@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Menaka </h1>
 <h3 align="center">AIML Engineer </h3>
-<img aligh="right" width="400" alt="Coder" src="https://www.magnific.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_65309450.htm#fromView=keyword&page=1&position=1&uuid=7a49b0d3-46a7-4726-b8bb-d18720cd2c27&track=ais_hybrid&query=Github+character" />
+<img aligh="right" width="400" alt="Coder" src="<img width="8333" height="8333" alt="9700_4_04" src="https://github.com/user-attachments/assets/92cb09a7-0c88-4d58-922f-ac5bcae6a74b" />
+" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MenakaNityanand&label=Profile%20views&color=0e75b6&style=flat" alt="MenakaNityanand" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
