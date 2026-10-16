@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Menaka </h1>
-<h3 align="center">A passionate Full Stack Developer And Youtuber</h3>
+<h3 align="center">AIML Engineer </h3>
 <img aligh="right" width="400" alt="Coder" src="https://github.com/user-attachments/assets/60e3cab9-41fe-4a1a-ad42-30f03a2e2399" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MenakaNityanand&label=Profile%20views&color=0e75b6&style=flat" alt="MenakaNityanand" /> </p>
 
