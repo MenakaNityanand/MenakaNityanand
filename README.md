@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
-- 📫 How to reach me **www.linkedin.com/in/https://www.linkedin.com/in/menaka-n/**
+- 📫 How to reach me **www.linkedin.com/in/menaka-n/**
 
 - ⚡ Fun fact **I have very Good Memory**
 
